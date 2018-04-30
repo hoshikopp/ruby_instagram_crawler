@@ -22,8 +22,6 @@ Or install it yourself as:
 ## Usage (How to Use)
 Very Easy !
 
-## Make Client Object
-
 If you want to search #hashtag pictures, 
 
 ```ruby
