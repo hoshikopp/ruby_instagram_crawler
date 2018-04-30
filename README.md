@@ -86,3 +86,6 @@ very Easy!
 Welcome your contributing for adding more and more abilities
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/hoshikopp/ruby_instagram_crawler .
+
+
+This gem is mainly developed by [plus Quality team](https://www.plusq.life/)
