@@ -1,7 +1,7 @@
 # InstagramCrawler
 
-ruby_instagram crawler is useful gem for searching instagram images by hashtag !!!!
-Is is compatible for Japanese and English and etc ...
+instagram_crawler is useful gem for searching instagram images information by hashtag !!!!
+It is compatible for Japanese and English and etc ...
 
 ## Installation
 
