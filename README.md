@@ -29,7 +29,7 @@ client = InstagramCrawler::Client.new(hashtag)
 client.get_image_urls()
 ```
 
-then
+then you can get return Array of Images information
 ```ruby
 [{:id=>1768954407183024563,
  :text=>
